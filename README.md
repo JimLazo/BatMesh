@@ -1,2 +1,2 @@
-# HEC6Pilot
-HEC 6 Mesh Network Pilot
+# Bat Mesh
+Mesh Network Pilot
